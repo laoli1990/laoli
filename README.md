@@ -14,3 +14,9 @@ git pull
 代码恢复到与本地仓库一致
 git checkout .
 
+查看所有分支
+git branch -a
+
+查看当前分支
+git branch -v
+
